@@ -29,9 +29,11 @@ El sistema modela la interacción entre **Huéspedes**, **Habitaciones**, **Rece
 
 ---
 
-## 🚀 Instalación y Configuración
+👥 Integrantes del Equipo
+Facundo Saenz
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/tu_usuario/tu_repositorio.git)
-   cd tu_repositorio
+Ignacio Montagna
+
+Ivo Gonzalez
+
+Docente: Juan Caballero Gallar

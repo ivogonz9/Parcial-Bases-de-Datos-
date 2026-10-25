@@ -30,6 +30,7 @@ El sistema modela la interacción entre **Huéspedes**, **Habitaciones**, **Rece
 ---
 
 👥 Integrantes del Equipo
+
 Facundo Saenz
 
 Ignacio Montagna
